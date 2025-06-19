@@ -1,7 +1,8 @@
 package EX_01_Javabasics;
 
-public class ex_01_apple {
+public class Lab_basics {
     public static void main(String[] args) {
-        System.out.println("hello");
+        System.out.println("hiii");
     }
+
 }
